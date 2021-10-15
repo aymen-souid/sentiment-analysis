@@ -3,10 +3,10 @@ A simple demonstration of integrating a sentiment analysis tool in a django proj
 
 To run this project : 
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
-python manage.py migrate 
+    python manage.py migrate 
 
-python manage.py makemigration 
+    python manage.py makemigration 
 
-python manage.py runserver 
+    python manage.py runserver 
