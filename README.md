@@ -1,5 +1,5 @@
 # sentiment-analysis
-A simple demonstration of integrating a sentiment analysis tool in a django project
+A simple demonstration of integrating a sentiment analysis tool in a django project (watch the video .mp4)
 
 To run this project : 
 
